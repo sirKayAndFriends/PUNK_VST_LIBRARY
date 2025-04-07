@@ -5,13 +5,13 @@ This repo is a handy collection of all the work we have done in this area - to h
 
 ## PolyAmp
 An extremely fluid software amplifier with options for all sorts of voicings and characteristics.
-Current Version : 1.0
-[Source] (https://github.com/sirKayAndFriends/PolyAmp-VST)
+- Current Version : 1.0
+- [Source] (https://github.com/sirKayAndFriends/PolyAmp-VST)
 
 ## PolyCule
 A similarly versatile overdrive with voicing parameters, clipping options and diode arrangement all built in.  It also looks nice!
-Current Version : 1.0
-[Source](https://github.com/sirKayAndFriends/PolyCule_VST)
+- Current Version : 1.0
+- [Source](https://github.com/sirKayAndFriends/PolyCule_VST)
 
 ## NARK - BETA
 A Big Muff-like fuzz.  A scoop knob allows you to choose the amount of the famous 1kHz mid-scoop or to eliminate it entirely!  There's also a button for half-wave rectification 

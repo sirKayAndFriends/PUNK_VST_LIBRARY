@@ -6,7 +6,7 @@ This repo is a handy collection of all the work we have done in this area - to h
 ## PolyAmp
 An extremely fluid software amplifier with options for all sorts of voicings and characteristics.
 - Current Version : 1.0
-- [Source] (https://github.com/sirKayAndFriends/PolyAmp-VST)
+- [Source](https://github.com/sirKayAndFriends/PolyAmp-VST)
 
 ## PolyCule
 A similarly versatile overdrive with voicing parameters, clipping options and diode arrangement all built in.  It also looks nice!

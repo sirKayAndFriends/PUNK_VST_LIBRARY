@@ -18,7 +18,7 @@ Looks bad but sounds good.  Enjoy the Simpsons jokes
 A simple to use and lightweight cab sim.  Following the general theme this thing is extremely tweakable - an invitation to
 step outside of the static historical molds.
 - current version : 1.0
-- [Source] (https://github.com/sirKayAndFriends/Cabinator_cabsim_VST)
+- [Source](https://github.com/sirKayAndFriends/Cabinator_cabsim_VST)
 
 ## Netzer JFET Overdrive
 A DIY Blog inspired overdrive based on the Runoffgroove "Fezter" boost pedal.  I like it a lot, and it blows the PolyCule out of the water

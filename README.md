@@ -3,17 +3,30 @@ A growing resource of plugins for DIY producers who don't want to pay for overpr
 Made in C++ with JUCE
 This repo is a handy collection of all the work we have done in this area - to have a dive into the source code and maybe do some mods yourself check out the source repos linked in each section.  Have fun!
 
-## PolyAmp
+## Poly Switch
 An extremely fluid software amplifier with options for all sorts of voicings and characteristics.
-- Current Version : 1.0
-- [Source](https://github.com/sirKayAndFriends/PolyAmp-VST)
+- Current Version : 3.0
+- [Source](https://github.com/sirKayAndFriends/Poly_Switch_VST)
+
+## Poly Fuzz
+Two fuzzes in one box.  Scoop knob, octave enabler, double-up madness.
+Looks bad but sounds good.  Enjoy the Simpsons jokes
+- current version: 2.0
+- [Source](https://github.com/sirKayAndFriends/PolyFuzz_VST)
+
+## CABINATOR
+A simple to use and lightweight cab sim.  Following the general theme this thing is extremely tweakable - an invitation to
+step outside of the static historical molds.
+- current version : 1.0
+- [Source] (https://github.com/sirKayAndFriends/Cabinator_cabsim_VST)
+
+## Netzer JFET Overdrive
+A DIY Blog inspired overdrive based on the Runoffgroove "Fezter" boost pedal.  I like it a lot, and it blows the PolyCule out of the water
+- current version : 1.0
+- [Source](https://github.com/sirKayAndFriends/netzer_jfet_overdrive)
 
 ## PolyCule
-A similarly versatile overdrive with voicing parameters, clipping options and diode arrangement all built in.  It also looks nice!
+A versatile overdrive with voicing parameters, clipping options and diode arrangement all built in.
+This is based on some classic diode-like soft-clipping algorithms.  Its cool but I personally think the Netzer sounds better
 - Current Version : 1.0
 - [Source](https://github.com/sirKayAndFriends/PolyCule_VST)
-
-## NARK - BETA
-A Big Muff-like fuzz.  A scoop knob allows you to choose the amount of the famous 1kHz mid-scoop or to eliminate it entirely!  There's also a button for half-wave rectification 
-to get a nice octavey sound.  For hyperfuzz fans!
-This is still a bit wobbly but it sounds ok.  Hopefully a final version soon!

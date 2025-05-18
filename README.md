@@ -1,6 +1,6 @@
 # A Library of VSTs for DIY Musicians
 A growing resource of plugins for DIY producers who don't want to pay for overpriced products!  All rough and ready but they do the job.
-Built in PlugData and compiled to C++ with the PD Heavy Compiler then built and beautified with JUCE.  
+Made in C++ with JUCE
 This repo is a handy collection of all the work we have done in this area - to have a dive into the source code and maybe do some mods yourself check out the source repos linked in each section.  Have fun!
 
 ## PolyAmp

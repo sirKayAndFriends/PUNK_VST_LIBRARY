@@ -30,3 +30,8 @@ A versatile overdrive with voicing parameters, clipping options and diode arrang
 This is based on some classic diode-like soft-clipping algorithms.  Its cool but I personally think the Netzer sounds better
 - Current Version : 1.0
 - [Source](https://github.com/sirKayAndFriends/PolyCule_VST)
+
+## *Arriving Soon?*
+- A back-to-basics synth intriguingly called "Geoffrey"...
+- A whacky stereo glitcher / tracker
+- Some ideas I have about a digital Oramatics workstation...
